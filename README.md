@@ -1,7 +1,7 @@
 # GANGA Shoes
 
 
-Nicolas Legarda\n
+\nNicolas Legarda
 Juan Usuga
 Andres Salas
 Santiago Ochoa
