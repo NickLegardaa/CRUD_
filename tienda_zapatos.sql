@@ -60,3 +60,6 @@ VALUES
 ('Zapato Oxford', 'Zapato formal de cuero negro', 190000, 5, 3, 3),
 ('Sandalia Casual', 'Sandalia para uso diario', 75000, 15, 4, 4),
 ('Bota Urbana', 'Bota casual de color cafe', 220000, 6, 5, 5);
+
+INSERT INTO usuarios (nombre, correo, contraseña)
+VALUES ('Administrador', 'admin@gangashoes.com', 'Admin123');
