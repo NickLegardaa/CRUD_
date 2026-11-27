@@ -8,7 +8,7 @@ CREATE TABLE usuarios (
     id_usuario INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL,
     correo VARCHAR(100) NOT NULL UNIQUE,
-    contraseña VARCHAR(255) NOT NULL,
+    `contraseña` VARCHAR(255) NOT NULL,
     fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
@@ -59,4 +59,4 @@ VALUES
 ('Adidas Run', 'Tenis deportivos para correr', 280000, 8, 1, 2),
 ('Zapato Oxford', 'Zapato formal de cuero negro', 190000, 5, 3, 3),
 ('Sandalia Casual', 'Sandalia para uso diario', 75000, 15, 4, 4),
-('Bota Urbana', 'Bota casual de color cafe', 220000, 6, 5, 10);
+('Bota Urbana', 'Bota casual de color cafe', 220000, 6, 5, 5);
