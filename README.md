@@ -1,11 +1,13 @@
-# CRUD_
+# GANGA Shoes
 --
 
 Nicolas Legarda
 Juan Usuga
-Fabian Calderón
+Andres Salas
 Santiago Ochoa
 
-OBJETIVO Y DESCRIPCION:
-Como parte de su funcionamiento, se desarrollará una aplicación web que permitirá gestionar el inventario de la tienda. Mediante este sistema, el administrador podrá registrar nuevos zapatos, consultar los productos disponibles, buscar referencias específicas, actualizar información y eliminar productos cuando sea necesario.
+Objetivo
+Desarrollar un sistema web para optimizar la gestión administrativa de GANGA Shoes, facilitando el control y la organización de productos, categorías, marcas y usuarios.
 
+Descripción
+GANGA Shoes es un sistema web diseñado para administrar la información de una tienda de zapatos, permitiendo registrar, consultar, actualizar y eliminar productos, categorías, marcas y usuarios de manera sencilla y organizada.
