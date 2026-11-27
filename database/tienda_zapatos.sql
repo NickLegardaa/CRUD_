@@ -59,4 +59,4 @@ VALUES
 ('Adidas Run', 'Tenis deportivos para correr', 280000, 8, 1, 2),
 ('Zapato Oxford', 'Zapato formal de cuero negro', 190000, 5, 3, 3),
 ('Sandalia Casual', 'Sandalia para uso diario', 75000, 15, 4, 4),
-('Bota Urbana', 'Bota casual de color cafe', 220000, 6, 5, 5);
+('Bota Urbana', 'Bota casual de color cafe', 220000, 6, 5, 10);
