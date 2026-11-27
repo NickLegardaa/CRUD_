@@ -1,9 +1,9 @@
 # GANGA Shoes
 
 
-\nNicolas Legarda
-Juan Usuga
-Andres Salas
+Nicolas Legarda - 
+Juan Usuga - 
+Andres Salas - 
 Santiago Ochoa
 
 Objetivo
